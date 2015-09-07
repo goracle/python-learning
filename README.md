@@ -11,6 +11,7 @@ files included
 
    A tool to fit data given a function and a data file
    (Incomplete)
+   (Out of date.  Development is now taking place at https://www.github.com/goracle/lattice-fitter/)
 
 2. picalc.py
 
